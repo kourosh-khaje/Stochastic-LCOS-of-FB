@@ -63,16 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Citation
 
-If you use this tool in your research, please cite:
-
-```bibtex
-@software{flow_battery_lcos_2026,
-  title={Flow Battery LCOS Analysis Tool},
-  author= Kourosh Khaje (PhD),
-  year={Jan 2026},
-  url={https://https://github.com/kourosh-khaje/Stochastic-LCOS-of-FB}
-}
-```
+If you use this code in an academic work, please cite: Khaje, K. (2026). Flow Battery LCOS Analysis Tool (v1.0), https://github.com/kourosh-khaje/Stochastic-LCOS-of-FB.git 
 
 ## Contact
 
