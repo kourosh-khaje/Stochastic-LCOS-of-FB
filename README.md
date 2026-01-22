@@ -1,8 +1,8 @@
-# Stochastic-LCOS-of-FB
+# Asymmetric FB Stochastic LCOS
 
 ##Overview
 
-This open-source script provides a complete framework for estimating levelized cost of storage (LCOS) across eight vanadium-based flow-battery chemistries via deterministic ranking and 10 000-run Monte-Carlo risk analysis.
+This open-source script provides a complete framework for estimating levelized cost of storage (LCOS) across eight asymmetric flow-battery chemistries via deterministic ranking and 10 000-run Monte-Carlo risk analysis.
 
 ##Features
 
